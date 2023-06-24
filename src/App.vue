@@ -44,7 +44,7 @@
 
   <div class="container">
     <div class="mt-4 p-5 bg-primary text-white rounded">
-      <h1 class="display-4">Vue Auto Deploy test</h1>
+      <h1 class="display-4">Vue Auto Deploy@Gaston</h1>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, molestiae fugiat. Quae alias, minus maxime
         quasi dolore blanditiis quo iure beatae, qui saepe mollitia doloribus, animi deleniti modi accusamus doloremque?
       </p>
